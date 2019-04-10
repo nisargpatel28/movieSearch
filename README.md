@@ -1,6 +1,6 @@
 # Favourite Movies
 
-Your task is to build a react application that allows the user to search for a movie and display results. The user can then favourite a movie so that it shows up in a separate list titled "favourites". They should also be allowed to unfavourite the movie if they change their mind.
+Task is to build a react application that allows the user to search for a movie and display results. The user can then favourite a movie so that it shows up in a separate list titled "favourites". They should also be allowed to unfavourite the movie if they change their mind.
 
 ## Running the app
 
